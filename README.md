@@ -1,9 +1,6 @@
 <table>
 <tbody>
-<tr>
-<th width="65%">&nbsp;</th>
-<th width="25%">&nbsp;</th>
-</tr>
+
 <tr>
 <td class="odd">The Mathematical Principles of Natural Philosophy by Sir Isaac Newton</td>
 <td class="odd"><a href="pdf1.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></td>
