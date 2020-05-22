@@ -1,6 +1,5 @@
 <table>
 <tbody>
-
 <tr>
 <td class="odd">The Mathematical Principles of Natural Philosophy by Sir Isaac Newton</td>
 <td class="odd"><a href="pdf1.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></td>
@@ -1058,7 +1057,7 @@
 <td class="even"><a href="1569.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></td>
 </tr>
 <tr>
-<td class="odd">Aesop's Fables</td>
+<td class="odd">Variational Principles in Classical Mechanics by Douglas Cline</td>
 <td class="odd"><a href="pdf2936.pdf" target="_blank"> <span style="color: blue; font-family: arial; font-size: small;"> Download </span></a></td>
 </tr>
 <tr>
