@@ -6089,7 +6089,7 @@ Calculus</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(98).pdf" style="text-decoration:none;">A First Course in Linear Algebra: an Open Text</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(99).pdf" style="text-decoration:none;">Precalculus</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(100).pdf" style="text-decoration:none;">A ghhhhhh</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(100).pdf" style="text-decoration:none;">Multivariable Calculus</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(101).pdf" style="text-decoration:none;">Complete Build Open Logic Project</a></li>
