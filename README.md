@@ -5914,7 +5914,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(3).pdf" style="text-decoration:none;">Chemistry: The Central Science</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(4).pdf" style="text-decoration:none;">The Adventure of Physics: Volume IV: The Quantum of Change</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(5).pdf" style="text-decoration:none;">he Adventure of Physics: Volume VI: The StrandModel – A Speculation on Uniication</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(5).pdf" style="text-decoration:none;">The Adventure of Physics: Volume VI: The StrandModel – A Speculation on Uniication</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(6).pdf" style="text-decoration:none;">Organic Chemistry with a Biological Emphasis: Volume I</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(7).pdf" style="text-decoration:none;">Organic Chemistry with a Biological Emphasis: Volume II</a></li>
 
@@ -6051,6 +6051,149 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(77).pdf" style="text-decoration:none;">Introduction to Game Theory: a Discovery Approach</a></li> 
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(78).pdf" style="text-decoration:none;">The Trillia Lectures on Mathematics: An Introduction to the Theory of Numbers</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(79).pdf" style="text-decoration:none;">Proofs
+and Concepts: the fundamentals of abstract mathematics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(80).pdf" style="text-decoration:none;">Ordinary Differential Equations </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(81).pdf" style="text-decoration:none;">Fundamentals of Matrix Algebra</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(82).pdf" style="text-decoration:none;">Pre-Calculus</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(83).pdf" style="text-decoration:none;">Abstract Algebra: Theory and Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(84).pdf" style="text-decoration:none;">Discrete Mathematics: An Open Introduction</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(85).pdf" style="text-decoration:none;"> Linear Regression Using R: An Introduction to Data Modeling</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(86).pdf" style="text-decoration:none;">Book of Proof</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(87).pdf" style="text-decoration:none;">Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(88).pdf" style="text-decoration:none;">A Spiral Workbook for Discrete Mathematics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(89).pdf" style="text-decoration:none;"> College Algebra and Trigonometry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(90).pdf" style="text-decoration:none;">Single Variable Calculus: Early Transcendentals</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(91).pdf" style="text-decoration:none;">Euclidean plane and its relatives: A minimalist introduction</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(92).pdf" style="text-decoration:none;">A First Course in Linear Algebra</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(93).pdf" style="text-decoration:none;">Vector
+Calculus</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(94).pdf" style="text-decoration:none;">The Zakon Series on Mathematical Analysis</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(95).pdf" style="text-decoration:none;">TRIGONOMETRY (Richard W. Beveridge)</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(96).pdf" style="text-decoration:none;">My Math GPS: Elementary Algebra Guided Problem Solving</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(97).pdf" style="text-decoration:none;">CALCULUS</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(98).pdf" style="text-decoration:none;">A First Course in Linear Algebra: an Open Text</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(99).pdf" style="text-decoration:none;">Precalculus</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(100).pdf" style="text-decoration:none;">A ghhhhhh</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(101).pdf" style="text-decoration:none;">Complete Build Open Logic Project</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(102).pdf" style="text-decoration:none;">Yet Another Calculus Text: A Short Introduction with Infinitesimals </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(103).pdf" style="text-decoration:none;">Notes on Diffy Qs: Differential Equations for Engineers</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(104).pdf" style="text-decoration:none;">Calculus For the Life Sciences: A Modeling Approach: Volume II. Difference and Differential Equations</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(105).pdf" style="text-decoration:none;">Trigonometry (Ted Sundstrom and Steven Schlicker)</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(106).pdf" style="text-decoration:none;">College Trigonometry</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(107).pdf" style="text-decoration:none;">Tea Time Numerical Analysis</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(108).pdf" style="text-decoration:none;">Mathematical Reasoning: Writing and Proof</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(109).pdf" style="text-decoration:none;">Linear Algebra</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(110).pdf" style="text-decoration:none;">College Algebra</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(111).pdf" style="text-decoration:none;">Calculus For the Life Sciences: A Modeling Approach: Volume I. Difference Equations, Calculus, and Differential Equations</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(112).pdf" style="text-decoration:none;">Active Calculus - Multivariable</a></li>   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(113).pdf" style="text-decoration:none;">LINEAR ALGEBRA</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(37).pdf" style="text-decoration:none;">LINEAR ALGEBRA</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(38).pdf" style="text-decoration:none;">Health Case Studies</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(39).pdf" style="text-decoration:none;">Boundless Economics</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(40).pdf" style="text-decoration:none;">Clinical Procedures for Safer Patient Care</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(41).pdf" style="text-decoration:none;">Literature Reviews for Education and Nursing Graduate Students</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(42).pdf" style="text-decoration:none;">Field Trials of Health Interventions: A Toolbox</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(43).pdf" style="text-decoration:none;">Evidence-Based Massage Therapy</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(44).pdf" style="text-decoration:none;">Public Health Ethics Analysis: Volume 3</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(45).pdf" style="text-decoration:none;">Drugs quality control (Theoretical foundation and practical application): The Coursebook</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(46).pdf" style="text-decoration:none;">Supporting Individuals with Intellectual Disabilities and Mental Illness</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(47).pdf" style="text-decoration:none;">Nursing Care at the End of Life</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(48).pdf" style="text-decoration:none;">Undergraduate Diagnostic Imaging Fundamentals</a></li> 
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(49).pdf" style="text-decoration:none;">Essentials of Geographic Information Systems</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(50).pdf" style="text-decoration:none;">Wetlands Law: A Course Source</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(51).rar" style="text-decoration:none;">Introduction to Environmental Science</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(52).pdf" style="text-decoration:none;">Land Use</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(53).pdf" style="text-decoration:none;">Soils Laboratory Manual</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(54).pdf" style="text-decoration:none;">Introduction to Physical Oceanography</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(55).pdf" style="text-decoration:none;">Learning and Understanding Mathematical Concepts in the Areas of Water Distribution and Water Treatment</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(56).pdf" style="text-decoration:none;">The Delft Sand, Clay and Rock Cutting Model</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(57).pdf" style="text-decoration:none;">American Environmental History</a></li> 
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(58).pdf" style="text-decoration:none;">OpenIntro Statistics</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(59).pdf" style="text-decoration:none;">BUSINESS MATH: A Step-By-Step Handbook</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(60).pdf" style="text-decoration:none;">Introductory Statistics with Randomization and Simulation</a></li> 
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(61).pdf" style="text-decoration:none;">Applied Discrete Structures</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(62).pdf" style="text-decoration:none;">Learning statistics with R: A tutorial for psychology students and other beginners</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(63).pdf" style="text-decoration:none;">Statistical Inference For Everyone</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(64).pdf" style="text-decoration:none;">First Semester in Numerical Analysis with Julia</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(65).PDF" style="text-decoration:none;">Introduction to real analysis</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(66).pdf" style="text-decoration:none;">A Computational Introduction to Number Theory and Algebra</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(67).pdf" style="text-decoration:none;">Introduction to Probability</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(68).pdf" style="text-decoration:none;">Geometry with an Introduction to Cosmic Topology</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(69).pdf" style="text-decoration:none;">Combinatorics Through Guided Discovery</a></li> 
+   
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(70).pdf" style="text-decoration:none;">Introductory Business Statistics</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(71).pdf" style="text-decoration:none;">Applied Finite Mathematics</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(72).pdf" style="text-decoration:none;">Quantitative Problem Solving in Natural Resources</a></li> 
+   
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(73).pdf" style="text-decoration:none;">Introduction to Mathematical Analysis I</a></li> 
+   
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(74).pdf" style="text-decoration:none;">Basic Analysis I</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(75).pdf" style="text-decoration:none;">Introductory Business Statistics with Interactive Spreadsheets</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(76).pdf" style="text-decoration:none;">Introductory Number Theory Textbook</a></li> 
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(77).pdf" style="text-decoration:none;">Introduction to Game Theory: a Discovery Approach</a></li> 
 
 
 
