@@ -5902,3 +5902,70 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(1).pdf" style="text-decoration:none;">Chemical Process Dynamics and Controls</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(2).pdf" style="text-decoration:none;">Key Elements of Green Chemistry</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(3).pdf" style="text-decoration:none;">Chemistry: The Central Science</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(4).pdf" style="text-decoration:none;">The Adventure of Physics: Volume IV: The Quantum of Change</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(5).pdf" style="text-decoration:none;">he Adventure of Physics: Volume VI: The StrandModel – A Speculation on Uniication</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(6).pdf" style="text-decoration:none;">Organic Chemistry with a Biological Emphasis: Volume I</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(7).pdf" style="text-decoration:none;">Organic Chemistry with a Biological Emphasis: Volume II</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(8).pdf" style="text-decoration:none;"> Mechanics and Relativity </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(9).pdf" style="text-decoration:none;">Concept Development Studies in Chemistry</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(10).pdf" style="text-decoration:none;">Solutions Manual for Thermodynamics and Chemistry </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(11).pdf" style="text-decoration:none;">Phylogenetic Comparative Methods</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(12).pdf" style="text-decoration:none;"> Quantitative Ecology: A New Unified Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(13).pdf" style="text-decoration:none;">Veterinary Histology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(14).pdf" style="text-decoration:none;">Concepts of Fitness and Wellness</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(15).pdf" style="text-decoration:none;">Foundations of Epidemiology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(16).pdf" style="text-decoration:none;">Health education</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(17).pdf" style="text-decoration:none;">Human Anatomy and Physiology Preparatory Course</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(18).pdf" style="text-decoration:none;">Human Anatomy Lab Manual</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(19).pdf" style="text-decoration:none;">Human Nutrition</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(20).pdf" style="text-decoration:none;">Unfolding the Mystery of Life, Biology Lab Manual for Non-Science Majors</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(21).pdf" style="text-decoration:none;">Introduction to Human Osteology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(22).pdf" style="text-decoration:none;">Fiber Laser Applications In Dentistry</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(23).pdf" style="text-decoration:none;">An Introduction to Nutrition</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(24).pdf" style="text-decoration:none;">Cell and Molecular Biology: What We Know & How We Found Out</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(25).pdf" style="text-decoration:none;">biofundamentals</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(26).pdf" style="text-decoration:none;">Kansas State University Human Nutrition (FNDH 400) Flexbook</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(27).pdf" style="text-decoration:none;">Principles of Microeconomics</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(28).pdf" style="text-decoration:none;">An Introduction to Cooperation and Mutualism</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(29).pdf" style="text-decoration:none;">Microeconomics: Markets, Methods and Models</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(30).pdf" style="text-decoration:none;">Economics - Theory Through Applications</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(31).pdf" style="text-decoration:none;">Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(32).pdf" style="text-decoration:none;">The Economics of Food and Agricultural Markets</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(33).pdf" style="text-decoration:none;">Microbiology for Allied Health Students</a></li>  
+
+</ul>   
+
+
+
