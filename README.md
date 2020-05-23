@@ -5943,7 +5943,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(20).pdf" style="text-decoration:none;">Unfolding the Mystery of Life, Biology Lab Manual for Non-Science Majors</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(21).pdf" style="text-decoration:none;">Introduction to Human Osteology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(22).pdf" style="text-decoration:none;">Fiber Laser Applications In Dentistry</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(22).pdf" style="text-decoration:none;">International Economics: Theory and Policy</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(23).pdf" style="text-decoration:none;">An Introduction to Nutrition</a></li> 
  
 
