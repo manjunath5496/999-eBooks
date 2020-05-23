@@ -5973,6 +5973,28 @@
    
 <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(37).pdf" style="text-decoration:none;">Money and Banking</a></li> 
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(38).pdf" style="text-decoration:none;">Health Case Studies</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(39).pdf" style="text-decoration:none;">Boundless Economics</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(40).pdf" style="text-decoration:none;">Clinical Procedures for Safer Patient Care</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(41).pdf" style="text-decoration:none;">Literature Reviews for Education and Nursing Graduate Students</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(42).pdf" style="text-decoration:none;">Field Trials of Health Interventions: A Toolbox</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(43).pdf" style="text-decoration:none;">Evidence-Based Massage Therapy</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(44).pdf" style="text-decoration:none;">Public Health Ethics Analysis: Volume 3</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(45).pdf" style="text-decoration:none;">Drugs quality control (Theoretical foundation and practical application): The Coursebook</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(46).pdf" style="text-decoration:none;">Supporting Individuals with Intellectual Disabilities and Mental Illness</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(47).pdf" style="text-decoration:none;">Nursing Care at the End of Life</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(48).pdf" style="text-decoration:none;">Undergraduate Diagnostic Imaging Fundamentals</a></li> 
+
+
+ 
  
  
  
