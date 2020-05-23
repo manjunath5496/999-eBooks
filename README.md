@@ -6010,6 +6010,48 @@
 
    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(57).pdf" style="text-decoration:none;">American Environmental History</a></li> 
    
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(58).pdf" style="text-decoration:none;">OpenIntro Statistics</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(59).pdf" style="text-decoration:none;">BUSINESS MATH: A Step-By-Step Handbook</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(60).pdf" style="text-decoration:none;">Introductory Statistics with Randomization and Simulation</a></li> 
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(61).pdf" style="text-decoration:none;">Applied Discrete Structures</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(62).pdf" style="text-decoration:none;">Learning statistics with R: A tutorial for psychology students and other beginners</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(63).pdf" style="text-decoration:none;">Statistical Inference For Everyone</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(64).pdf" style="text-decoration:none;">First Semester in Numerical Analysis with Julia</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(65).PDF" style="text-decoration:none;">Introduction to real analysis</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(66).pdf" style="text-decoration:none;">A Computational Introduction to Number Theory and Algebra</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(67).pdf" style="text-decoration:none;">Introduction to Probability</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(68).pdf" style="text-decoration:none;">Geometry with an Introduction to Cosmic Topology</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(69).pdf" style="text-decoration:none;">Combinatorics Through Guided Discovery</a></li> 
+   
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(70).pdf" style="text-decoration:none;">Introductory Business Statistics</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(71).pdf" style="text-decoration:none;">Applied Finite Mathematics</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(72).pdf" style="text-decoration:none;">Quantitative Problem Solving in Natural Resources</a></li> 
+   
+
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(73).pdf" style="text-decoration:none;">Introduction to Mathematical Analysis I</a></li> 
+   
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(74).pdf" style="text-decoration:none;">Basic Analysis I</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(75).pdf" style="text-decoration:none;">Introductory Business Statistics with Interactive Spreadsheets</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(76).pdf" style="text-decoration:none;">Introductory Number Theory Textbook</a></li> 
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(77).pdf" style="text-decoration:none;">Introduction to Game Theory: a Discovery Approach</a></li> 
+
+
+
 
 
 
