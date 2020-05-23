@@ -5994,10 +5994,24 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(48).pdf" style="text-decoration:none;">Undergraduate Diagnostic Imaging Fundamentals</a></li> 
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(49).pdf" style="text-decoration:none;">Essentials of Geographic Information Systems</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(50).pdf" style="text-decoration:none;">Wetlands Law: A Course Source</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(51).rar" style="text-decoration:none;">Introduction to Environmental Science</a></li>
+   
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(52).pdf" style="text-decoration:none;">Land Use</a></li>
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(53).pdf" style="text-decoration:none;">Soils Laboratory Manual</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(54).pdf" style="text-decoration:none;">Introduction to Physical Oceanography</a></li>
  
- 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(55).pdf" style="text-decoration:none;">Learning and Understanding Mathematical Concepts in the Areas of Water Distribution and Water Treatment</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(56).pdf" style="text-decoration:none;">The Delft Sand, Clay and Rock Cutting Model</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(57).pdf" style="text-decoration:none;">American Environmental History</a></li> 
+   
+
+
 
 </ul>   
 
