@@ -5963,7 +5963,12 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(31).pdf" style="text-decoration:none;">Good Corporation, Bad Corporation: Corporate Social Responsibility in the Global Economy</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(32).pdf" style="text-decoration:none;">The Economics of Food and Agricultural Markets</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(33).pdf" style="text-decoration:none;">Microbiology for Allied Health Students</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(33).pdf" style="text-decoration:none;">Microbiology for Allied Health Students</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(34).pdf" style="text-decoration:none;">International Trade - Theory and Policy</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(35).rar" style="text-decoration:none;">Principles of Macroeconomics</a></li>   
+   
 
 </ul>   
 
