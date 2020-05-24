@@ -6203,6 +6203,55 @@ Assembly Language Programming with Ubuntu</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(157).pdf" style="text-decoration:none;">Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits</a></li> 
    
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(158).pdf" style="text-decoration:none;">Introduction to Computer Graphics</a></li>   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(159).pdf" style="text-decoration:none;">Delftse Foundations of Computation</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(160).pdf" style="text-decoration:none;">Database Design</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(161).pdf" style="text-decoration:none;">Introduction To MIPS Assembly Language Programming</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(162).pdf" style="text-decoration:none;">Java, Java, Java Object-Oriented Problem Solving</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(163).pdf" style="text-decoration:none;">An Introduction to Matlab and Mathcad</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(164).pdf" style="text-decoration:none;">Graphic Design and Print Production Fundamentals</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(165).pdf" style="text-decoration:none;">Introduction to Programming Using Java</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(166).pdf" style="text-decoration:none;">An Introduction to Computer Networks</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(167).pdf" style="text-decoration:none;">Deep into Pharo</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(168).pdf" style="text-decoration:none;">Operating Systems and Middleware: Supporting Controlled Interaction</a></li> 
+   
+  
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(169).pdf" style="text-decoration:none;"> Designing Business Information Systems: Apps, Websites</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(170).pdf" style="text-decoration:none;">Spatial Thinking in Planning Practice: An Introduction to GIS</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(171).pdf" style="text-decoration:none;">Enterprise Pharo: a Web Perspective</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(172).pdf" style="text-decoration:none;">Agent-Based Evolutionary Game Dynamics</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(173).pdf" style="text-decoration:none;"> Computer Networking: Principles, Protocols and Practice</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(174).pdf" style="text-decoration:none;">Signal Computing: Digital Signals in the Software Domain</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(175).pdf" style="text-decoration:none;">Information Systems</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(176).pdf" style="text-decoration:none;">Introduction to the Modeling and Analysis of Complex Systems</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(177).pdf" style="text-decoration:none;">Essentials of Geographic Information Systems</a></li> 
+
+
+
+
+
+
+
+
+
 
 
 </ul>   
