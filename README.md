@@ -6271,7 +6271,8 @@ Assembly Language Programming with Ubuntu</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(190).pdf" style="text-decoration:none;">Principles of Social Psychology</a></li> 
 
-
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/pdf(3564).pdf" style="text-decoration:none;">Semiconductor Devices: Theory and Application</a></li> 
 
 
 
