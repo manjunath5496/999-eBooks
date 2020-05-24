@@ -6177,6 +6177,33 @@ Calculus</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(144).pdf" style="text-decoration:none;">Embedded Controllers Using C and Arduino / 2E</a></li> 
    
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(145).pdf" style="text-decoration:none;">Think Bayes: Bayesian Statistics Made Simple</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(146).pdf" style="text-decoration:none;">x86-64
+Assembly Language Programming with Ubuntu</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(147).pdf" style="text-decoration:none;">MIPS Assembly Language Programming using QtSpim</a></li>   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(148).pdf" style="text-decoration:none;">Object-Oriented Reengineering Patterns</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(149).pdf" style="text-decoration:none;">Database Design</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(150).pdf" style="text-decoration:none;">Professional Web Accessibility Auditing Made Easy</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(151).pdf" style="text-decoration:none;">Squeak by Example</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(152).pdf" style="text-decoration:none;">Information Systems for Business and Beyond </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(153).pdf" style="text-decoration:none;">Relational Databases and Microsoft Access</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(154).pdf" style="text-decoration:none;">Think DSP: Digital Signal Processing in Python</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(155).pdf" style="text-decoration:none;">Making Games with Python and Pygame</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(156).pdf" style="text-decoration:none;">The Missing Link: An Introduction to Web Development and Programming</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(157).pdf" style="text-decoration:none;">Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits</a></li> 
+   
+
 
 </ul>   
 
