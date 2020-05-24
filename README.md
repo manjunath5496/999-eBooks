@@ -6244,8 +6244,28 @@ Assembly Language Programming with Ubuntu</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(177).pdf" style="text-decoration:none;">Essentials of Geographic Information Systems</a></li> 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(178).pdf" style="text-decoration:none;">Child Growth and Development</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(179).pdf" style="text-decoration:none;">Research Methods in Psychology</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(180).pdf" style="text-decoration:none;">Lifespan Development: A Psychological Perspective</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(181).pdf" style="text-decoration:none;"> Trauma-Informed School Practices</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(182).pdf" style="text-decoration:none;">The Balance of Personality</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(183).pdf" style="text-decoration:none;">Information Systems</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(184).pdf" style="text-decoration:none;">Wellbeing in Educational Contexts</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(185).pdf" style="text-decoration:none;">An Introduction to Psychological Statistics</a></li> 
 
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(186).pdf" style="text-decoration:none;">Mind, body, world: foundations of cognitive science</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(187).pdf" style="text-decoration:none;">Educational Psychology</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(188).pdf" style="text-decoration:none;">Instruction in Functional Assessment</a></li> 
 
 
 
