@@ -6135,6 +6135,48 @@ Calculus</a></li>
    
 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(123).pdf" style="text-decoration:none;">The Unicode Cookbook for Linguists</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(124).pdf" style="text-decoration:none;">Programming Languages: Application and Interpretation </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(125).pdf" style="text-decoration:none;">Think Data Structures: Algorithms and Information Retrieval in Java</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(126).pdf" style="text-decoration:none;">The Spec UI framework</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(127).pdf" style="text-decoration:none;">Think Python: How to Think Like a Computer Scientist</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(128).pdf" style="text-decoration:none;">Think C++</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(129).pdf" style="text-decoration:none;">Physical Modeling in MATLAB</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(130).pdf" style="text-decoration:none;">The Little Book of Semaphores</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(131).pdf" style="text-decoration:none;">Think Complexity</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(132).pdf" style="text-decoration:none;">Combinatorics: an upper-level introductory course in enumeration, graph theory, and design theory</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(133).pdf" style="text-decoration:none;">Think Java: How to Think Like a Computer Scientist</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(134).pdf" style="text-decoration:none;">Fast Fourier Transforms</a></li>   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(135).pdf" style="text-decoration:none;">Open Data Structures</a></li> 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(136).pdf" style="text-decoration:none;">Foundations of Computation</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(137).pdf" style="text-decoration:none;">Web Accessibility for Developers</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(138).pdf" style="text-decoration:none;">Java with BlueJ</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(139).pdf" style="text-decoration:none;">Introduction to Programming using Fortran 95/2003/2008 </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(140).pdf" style="text-decoration:none;">Think Stats: Exploratory Data Analysis in Python</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(141).pdf" style="text-decoration:none;">Implementing a One Address CPU in Logisim</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(142).pdf" style="text-decoration:none;">Eloquent JavaScript</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(143).pdf" style="text-decoration:none;">Java with BlueJ Part 2</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(144).pdf" style="text-decoration:none;">Embedded Controllers Using C and Arduino / 2E</a></li> 
+   
+
 
 </ul>   
 
