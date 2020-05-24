@@ -6267,6 +6267,9 @@ Assembly Language Programming with Ubuntu</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(188).pdf" style="text-decoration:none;">Instruction in Functional Assessment</a></li> 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(189).pdf" style="text-decoration:none;">Introduction to Psychology</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(190).pdf" style="text-decoration:none;">Principles of Social Psychology</a></li> 
 
 
 
