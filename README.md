@@ -6254,7 +6254,7 @@ Assembly Language Programming with Ubuntu</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(182).pdf" style="text-decoration:none;">The Balance of Personality</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(183).pdf" style="text-decoration:none;">Information Systems</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(183).pdf" style="text-decoration:none;">General Psychology: An Introduction</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(184).pdf" style="text-decoration:none;">Wellbeing in Educational Contexts</a></li> 
    
