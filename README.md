@@ -6275,6 +6275,26 @@ Assembly Language Programming with Ubuntu</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/pdf(3564).pdf" style="text-decoration:none;">Semiconductor Devices: Theory and Application</a></li> 
 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(191).pdf" style="text-decoration:none;">Introduction to Logic and Critical Thinking</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(192).pdf" style="text-decoration:none;">Responsible Innovation: Ethics and risks of new technologies</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(193).pdf" style="text-decoration:none;">Six ways of being religious: A framework for comparative studies of religion</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(194).pdf" style="text-decoration:none;">Introduction to Philosophy: Ethics</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(195).pdf" style="text-decoration:none;">Fundamental Methods of Logic</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(196).pdf" style="text-decoration:none;">Inferring and Explaining</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(197).pdf" style="text-decoration:none;">A Concise Introduction to Logic</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(198).pdf" style="text-decoration:none;">The Intelligent Troglodyte's Guide to Plato's Republic</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(199).pdf" style="text-decoration:none;"> Animals and Ethics 101: Thinking Critically About Animal Rights</a></li> 
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(200).pdf" style="text-decoration:none;">Introduction to Philosophy: Philosophy of Mind</a></li> 
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(201).pdf" style="text-decoration:none;">Words of Wisdom: Intro to Philosophy</a></li> 
 
 
 
