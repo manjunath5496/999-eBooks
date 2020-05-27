@@ -6297,7 +6297,6 @@ Assembly Language Programming with Ubuntu</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/999-eBooks/blob/master/osb(201).pdf" style="text-decoration:none;">Words of Wisdom: Intro to Philosophy</a></li> 
 
 
-
 </ul>   
 
 
